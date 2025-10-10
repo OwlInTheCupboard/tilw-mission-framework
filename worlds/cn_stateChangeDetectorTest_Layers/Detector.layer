@@ -1,0 +1,14 @@
+CN_AIThreatStateTriggerEntity {
+ coords 5495.269 85 5627.687
+ m_queryRadius 300
+ m_skipFirstQuery 1
+ m_flagName "spotted"
+ m_ownerFactionKey "USSR"
+}
+SCR_AIGroup : "{E552DABF3636C2AD}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad.et" {
+ coords 5540.613 82.777 5552.608
+}
+SCR_AIGroup : "{F72EF3429D8C8DF5}Prefabs/Groups/BLUFOR/Group_US_AmmoTeam.et" {
+ coords 5535.924 85.776 5598.896
+ angleY 132.187
+}
